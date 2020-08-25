@@ -31,6 +31,7 @@ body{
 }
 .login-label{
     color: #fff;
+    background: #3b5998;
 }
 .login-controls{
     margin-left: 110px;
